@@ -1,0 +1,14 @@
+.errorBox {
+    display: none;
+    border: 2px solid red;
+    margin-top: 12px;
+    font-size: large;
+}
+
+.messageBox {
+    display: none;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 12px;
+    font-size: x-large;
+}
